@@ -1,0 +1,1 @@
+multi-agent AI system that automatically triages IT support tickets. it classifies each ticket's category and urgency, looks up how similar tickets were resolved in the past, drafts a response, and decides on its own whether to close the ticket or hand it off to a human.
